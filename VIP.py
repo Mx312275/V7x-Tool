@@ -1,6 +1,6 @@
 print ('V7x Tool v 1.5')
 
-print ('Coded By V7x Team')
+print ('Coded By V7x_Team')
 
 print ('WwW.Vairous7x.CoM')
 
